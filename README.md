@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Usama Basharat</h1>
 <h3 align="center">An enthusiastic web developer with a burning desire to master Backend Technologies</h3>
-<img align="right" alt="image here" width="400" src="https://github.com/usamabasharat123/usamabasharat123/blob/main/coding.gif">
+<img align="right" alt="image here" width="400" src="https://github.com/usamabasharat123/usamabasharat123/blob/main/background%20image.png">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=usamabasharat123&label=Profile%20views&color=0e75b6&style=flat" alt="usamabasharat123" /> </p>
 
