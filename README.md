@@ -12,7 +12,7 @@
 
 - 🌱 Love of learn **Problem Solving Skills**
 
-- 👨‍💻 All of my projects are available at [usamabasharat.me](usamabasharat.me)
+- 👨‍💻 All of my projects are available at [usamabasharat.me](usamabasharat.tech)
 
 - 💬 Ask me about **Problem Solving**
 
